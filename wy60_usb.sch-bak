@@ -2661,15 +2661,15 @@ Text GLabel 800  2750 0    50   Input ~ 0
 row3
 Text GLabel 800  3500 0    50   Input ~ 0
 row4
-Text GLabel 2150 4600 1    50   Input ~ 0
+Text GLabel 1350 4950 1    50   Input ~ 0
 row0
-Text GLabel 2250 4600 1    50   Input ~ 0
+Text GLabel 1450 4950 1    50   Input ~ 0
 row1
-Text GLabel 1150 4600 1    50   Input ~ 0
+Text GLabel 1550 4950 1    50   Input ~ 0
 row2
-Text GLabel 1350 4600 1    50   Input ~ 0
+Text GLabel 1650 4950 1    50   Input ~ 0
 row3
-Text GLabel 1250 4600 1    50   Input ~ 0
+Text GLabel 1750 4950 1    50   Input ~ 0
 row4
 Text GLabel 10300 5400 2    50   Input ~ 0
 MOSI
@@ -3536,4 +3536,6 @@ Wire Wire Line
 	9600 4250 10700 4250
 Text GLabel 2450 4950 1    50   Input ~ 0
 col19
+Text GLabel 1850 4950 1    50   Input ~ 0
+row5
 $EndSCHEMATC
