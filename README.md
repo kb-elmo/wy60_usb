@@ -33,6 +33,7 @@ The controller is placed in the exact same location as the one on the original P
 [![](https://i.imgur.com/SexuyVJm.jpg)](https://i.imgur.com/SexuyVJ.jpg) [![](https://i.imgur.com/DevIs6em.jpg)](https://i.imgur.com/DevIs6e.jpg)
 [![](https://i.imgur.com/V66OB8am.jpg)](https://i.imgur.com/V66OB8a.jpg) [![](https://i.imgur.com/2M1VHWPm.jpg)](https://i.imgur.com/2M1VHWP.jpg)
 [![](https://i.imgur.com/meGhRlam.jpg)](https://i.imgur.com/meGhRla.jpg) [![](https://i.imgur.com/xnp9PsBm.jpg)](https://i.imgur.com/xnp9PsB.jpg)
+
 The Case requires some modification to make the new USB port fit. 
 Unfortunately the original cable cutout sits in a position where it was not possible to use it for the USB port.
 
